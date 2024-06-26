@@ -2,16 +2,14 @@
  This free bump bot boosts your token's visibility and engagement on the Pump.Fun platform.
  
 Ideal for showcasing your token on the Pump.fun main page.
-# Demo
 
 # Download the bot
 If you have Git installed on your computer, fetch this repository with:
 
 ``` 
 git clone 
-
 ```
-Alternatively, download the repository as a zip here:
+Alternatively, download the repository as a zip here: https://github.com/AnkerDeveloperonSOL/Pump.Fun-Token-Bumper-Bot/archive/refs/heads/main.zip
 
 # Setting up the bot
 
@@ -111,3 +109,7 @@ And adjust the fees (higher fees = faster speed) at the top of the script:
 const FEES =
 ```
 Happy bumping!
+
+Buy me a coffe if you are feeling generous today :) 
+
+SOL Address: 3MvHN2S1biwmnBwmwZfiQLkAyaAzdhXatg2WXARPf9R6
