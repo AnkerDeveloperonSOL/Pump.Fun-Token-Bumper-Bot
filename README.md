@@ -7,7 +7,7 @@ Ideal for showcasing your token on the Pump.fun main page.
 If you have Git installed on your computer, fetch this repository with:
 
 ``` 
-git clone 
+git clone https://github.com/AnkerDeveloperonSOL/Pump.Fun-Token-Bumper-Bot.git
 ```
 Alternatively, download the repository as a zip here: https://github.com/AnkerDeveloperonSOL/Pump.Fun-Token-Bumper-Bot/archive/refs/heads/main.zip
 
